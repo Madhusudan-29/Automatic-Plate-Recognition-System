@@ -1,0 +1,3 @@
+# This is a project based on the Automatic Number Plate Recognititon System.
+# This is a zip file which includes code as well as the report.
+# It uses the haarcascade russian classifier to recognize the Number Plate.. 
